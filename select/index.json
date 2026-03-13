@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "立ち入り禁止",
+  "base_artist": "mafumafu",
+  "createdAt": "2026-03-13T07:25:05.370195Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "立ち入り禁止",
+      "artist": "Mafumafu",
+      "has_synced": true,
+      "path": "select/01_立ち入り禁止_Mafumafu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "立ち入り禁止",
+      "artist": "Ayase×Ado",
+      "has_synced": true,
+      "path": "select/02_立ち入り禁止_Ayase×Ado.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "立ち入り禁止 - Tachiirikinshi",
+      "artist": "Ayase×Ado",
+      "has_synced": true,
+      "path": "select/03_立ち入り禁止_-_Tachiirikinshi_Ayase×Ado.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "立ち入り禁止",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/04_立ち入り禁止_Ado.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "立ち入り禁止",
+      "artist": "Ayase",
+      "has_synced": true,
+      "path": "select/05_立ち入り禁止_Ayase.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "立ち入り禁止",
+      "artist": "まふまふ",
+      "has_synced": false,
+      "path": "select/pl_01_立ち入り禁止_まふまふ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "立ち入り禁止",
+      "artist": "まふまふ",
+      "has_synced": false,
+      "path": "select/pl_02_立ち入り禁止_まふまふ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "立ち入り禁止",
+      "artist": "まふまふ",
+      "has_synced": false,
+      "path": "select/pl_03_立ち入り禁止_まふまふ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "立ち入り禁止",
+      "artist": "まふまふ",
+      "has_synced": false,
+      "path": "select/pl_04_立ち入り禁止_まふまふ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "立ち入り禁止",
+      "artist": "まふまふ",
+      "has_synced": false,
+      "path": "select/pl_05_立ち入り禁止_まふまふ.txt"
+    }
+  ]
+}
